@@ -1,0 +1,14 @@
+ .one
+ {
+ 	background: #FF33E6 ;
+ }
+ .card {
+ 	border: 1px solid lightgreen;
+ 	width: 20rem;
+text-align: center;
+margin-left:300px;
+border-radius:4px;
+ }
+ .card img {
+ 	width: 100%;
+ }
